@@ -1,0 +1,1 @@
+../../.config/i3/start-conky-i3statusbar.sh
